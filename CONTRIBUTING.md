@@ -1,11 +1,11 @@
-#All contributions:
+# All contributions:
 
-#bug reports:
+# bug reports:
 
-#bug fixes:
+# bug fixes:
 
-#documentation improvements:
+# documentation improvements:
 
-#enhancements:
+# enhancements:
 
-#ideas are welcome.
+# ideas are welcome.
