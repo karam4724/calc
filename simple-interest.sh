@@ -3,7 +3,7 @@
 # Simple Interest Calculator
 
 echo "======================================="
-echo "      Simple Interest Calculator       "
+echo "      Simple Interest Calculator by first bash script       "
 echo "======================================="
 
 # Get inputs from the user
